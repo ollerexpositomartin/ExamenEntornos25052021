@@ -45,7 +45,7 @@ public class Enteros {
 	
 
 	/**
-	 * Da la vuelta a una cadena
+	 * Da la vuelta a un String
 	 * @param cadena palabra la cual va a dar la vuelta
 	 * @return devuelva la cadena ya dada la vuelta
 	 */
